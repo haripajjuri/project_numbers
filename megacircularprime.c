@@ -66,6 +66,6 @@ int main()
 			printf("not a mega circular prime number");
 			break;
 		}
-	}nt
+	}
 	return 0;
 }
